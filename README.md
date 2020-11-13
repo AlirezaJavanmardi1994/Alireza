@@ -1,2 +1,2 @@
 # Alireza
-face recognition
+face recognition project using TAFTs dataset
